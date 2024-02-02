@@ -1,0 +1,8 @@
+What are the randomly generated predicted stayed booking metrics for versions 1 and 2, and how can they be compared?
+
+Answer:
+In contrast, for version 2, the randomly generated predicted stayed booking metric is 72%. This provides an interesting comparison point between the two versions, suggesting a potential difference in the accuracy of predicting guest stays. Further analysis and testing would be required to determine the significance of this variance and its impact on the overall performance of the booking prediction system.
+
+
+
+
