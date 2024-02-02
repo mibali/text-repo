@@ -1,0 +1,8 @@
+Question:
+What are the randomly generated predicted stayed booking metrics for versions 1 and 2, and how can they be compared?
+
+Answer:
+For version 1, the predicted stayed booking metric is generated at 85%, indicating a high likelihood of guests staying. 
+
+
+
